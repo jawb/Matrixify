@@ -17,8 +17,11 @@ A format line specify the position of each line with the caracter "%" and separa
 P.S: the number of "%" used in the format line indicate the number of columns in the matrix.
 ##Examples:
 ` %,%,%,
+
   a
+
   b
+
   c
   d
   e
