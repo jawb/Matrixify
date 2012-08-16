@@ -1,5 +1,6 @@
 ‎#Matrixify
-#‎#What's Matrixify:
+
+##What's Matrixify:
 Matrixify is a **Sublime text 2 plugin** that facilitates formatting lines of code into matrix shape.
 
 If you dealt with a code with large data sets inside an array, list or a map like Hex data or countries list for example.
@@ -13,8 +14,9 @@ To use Matrixify you need to follow the steps:
 * Select the lines and use Edit > Matrixify or use the keyboard shortcut Ctrl+Alt+X (Ctrl+Super+X on Mac).
 You can also use multiple selections but every region must have the format line.
 
-#‎#Writing the format line:
+##Writing the format line:
 A format line specify the position of each line with the character "%" and separators that will separate columns of the matrix.
+
 **P.S:** the number of "%" used in the format line indicates the number of columns in the matrix.
 
 #‎#Examples:
