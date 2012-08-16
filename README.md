@@ -16,10 +16,10 @@ You can also use multiple selections but every region must have the format line.
 A format line specify the position of each line with the caracter "%" and separators that will separate columns of the matrix.
 P.S: the number of "%" used in the format line indicate the number of columns in the matrix.
 ##Examples:
-` %,%,%,`
-` a`
-` b`
-
+```
+  %,%,%,
+  a
+  b
   c
   d
   e
@@ -28,4 +28,5 @@ P.S: the number of "%" used in the format line indicate the number of columns in
   h
   i
   j
-  k`
+  k
+```
