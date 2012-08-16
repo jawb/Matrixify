@@ -12,13 +12,13 @@ To use Matrixify you need to follow the steps:
 
 * Choose lines that would be formated.
 * Above the lines you have to write a format line (described below).
-* Select the lines and use Edit > Matrixify or use the keyboard shortcut Ctrl+Alt+X (Ctrl+Super+X on Mac).
-You can also use multiple selections but every region must have the format line.
+* Select the lines and use **Edit -> Matrixify** or use the keyboard shortcut Ctrl+Alt+X (Ctrl+Super+X on Mac).
+You can also use multiple selections but every region must have it's own format line.
 
 ##Writing the format line:
-A format line specify the position of each line with the character "%" and separators that will separate columns of the matrix.
+A format line specify the position of each line with the character "%" and separators that will separates columns of the matrix.
 
-**P.S:** the number of "%" used in the format line indicates the number of columns in the matrix.
+**P.S:** The number of "%" used in the format line indicates the number of columns in the matrix.
 
 ##Examples:
 ####Example 1:
@@ -36,6 +36,7 @@ A format line specify the position of each line with the character "%" and separ
   j
   k
 ```
+####Output:
 ```
 a,b,c,
 d,e,f,
@@ -63,6 +64,7 @@ o
 pppppppp
 q
 ```
+####Output:
 ```
 >> aaa,-b     ,--cc,---d       , &&
 >> e  ,-f     ,--g ,---h       , &&
