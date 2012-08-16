@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": 1345071164,
+	"installed_packages":
+	[
+		"Alignment",
+		"ASCII Decorator",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Clipboard History",
+		"DeleteBlankLines",
+		"DetectSyntax",
+		"Dictionaries",
+		"Git",
+		"Hex to HSL Color Converter",
+		"Hex-to-RGBA",
+		"HexViewer",
+		"HTML Compressor",
+		"Inline Calculator",
+		"Insert Nums",
+		"JsFormat",
+		"JsMinifier",
+		"LiveReload",
+		"LoremIpsum",
+		"Package Control",
+		"PhpBeautifier",
+		"Placeholders",
+		"Prefixr",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"Web Encoders",
+		"ZenCoding"
+	]
+}
