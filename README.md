@@ -1,4 +1,5 @@
-‎#Matrixify
+‎
+#Matrixify
 
 ##What's Matrixify:
 Matrixify is a **Sublime text 2 plugin** that facilitates formatting lines of code into matrix shape.
