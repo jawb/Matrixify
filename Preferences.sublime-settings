@@ -1,6 +1,0 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
-{
-	"theme": "Soda Dark.sublime-theme",
-	"soda_classic_tabs": true
-}
