@@ -13,8 +13,8 @@ To use Matrixify you need to follow the steps:
 * Choose lines that would be formated.
 * Above the lines you have to write a format line (described below).
 * Select the lines and use one of these three methods:
-    1. **Edit -> Matrixify**.
-    2. Keyboard shortcut **Ctrl+Alt+X** (**Ctrl+Super+X** on Mac).
+    1. From menu **Edit > Matrixify**.
+    2. Keyboard shortcut **Ctrl+Alt+X** or **Ctrl+Super+X** on Mac (Change the key binding in case of conflict).
     3. The command **Matrixify** from the command palette.
 
 You can also use multiple selections but every region must have it's own format line.
