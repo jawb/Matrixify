@@ -12,26 +12,29 @@ To use Matrixify select the lines and use one of these three methods:
   1. From menu **Edit > Matrixify**.
   2. Keyboard shortcut **Ctrl+Alt+X** or **Ctrl+Super+X** on Mac (Change the key binding in case of conflict).
   3. The command **Matrixify** from the command palette.
+
 Then enter your format line (described below) in the input field and press Enter.
+
 You can also use multiple selections, but the format line will be applied to all of them.
 
 ##Writing the format line:
 A format line specify the position of each line with the character "%" and separators that will separates columns of the matrix.
+
 **P.S:** The number of "%" used in the format line indicates the number of columns in the matrix.
 
 ####Example 1:
 ```
-  a
-  b
-  c
-  d
-  e
-  f
-  g
-  h
-  i
-  j
-  k
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
 --------Format line--------
 %,%,%,
 ```
