@@ -9,7 +9,7 @@ Then it's interesting to format it into a matrix shape , that's much elegant tha
 
 ##How to use it:
 Matrixify has 5 modes :
-###Default (requires format and uses lines):
+###1-Default (requires format and uses lines):
 Can be accessed :
   1. From menu **Edit > Matrixify**.
   2. Keyboard shortcut **ctrl+super+x**
@@ -37,7 +37,7 @@ d,e,f,
 g,h,i,
 j,k
 ```
-###Auto (uses lines and automatic format):
+###2-Auto (uses lines and automatic format):
 Can be accessed using keyboard shortcut **ctrl+super+keypadi , i in [1-9]**.
 
 ####Example 2:
@@ -63,7 +63,7 @@ g,h,i,
 j,k
 ```
 
-###Separator (requires format):
+###3-Separator (requires format):
 Can be accessed using keyboard shortcut **alt+super+i , i is ',' or ';' **.
 
 ####Example 3:
@@ -80,7 +80,7 @@ g,h,i,
 j,k
 ```
 
-###SeparatorAuto (requires separator):
+###4-Separator Auto (requires separator):
 Can be accessed using keyboard shortcut **alt+super+keypadi , i in [1-9]**.
 ####Example 4:
 ```
@@ -95,7 +95,7 @@ d,e,f,
 g,h,i,
 j,k
 ```
-###Verbose (requires format and separator):
+###5-Verbose (requires format and separator):
 Can be accessed using keyboard shortcut **ctrl+super+s**.
 You should enter a valid python tuple (format,separator).
 ####Example 5:
