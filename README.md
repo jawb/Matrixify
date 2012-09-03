@@ -14,6 +14,7 @@ Can be accessed :
   1. From menu **Edit > Matrixify**.
   2. Keyboard shortcut **ctrl+super+x**
   3. The command **Matrixify** from the command palette.
+
 ####Example 1:
 ```
 a
