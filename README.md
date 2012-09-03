@@ -38,6 +38,7 @@ j,k
 ```
 ###Auto (uses lines and automatic format):
 Can be accessed using keyboard shortcut **ctrl+super+keypadi , i in [1-9]**.
+
 ####Example 2:
 ```
 a
@@ -60,8 +61,10 @@ d,e,f,
 g,h,i,
 j,k
 ```
+
 ###Separator (requires format):
 Can be accessed using keyboard shortcut **alt+super+i , i is ',' or ';' **.
+
 ####Example 3:
 ```
 a;b;c;d;e;f;g;h;i;j;k
@@ -75,6 +78,7 @@ d,e,f,
 g,h,i,
 j,k
 ```
+
 ###SeparatorAuto (requires separator):
 Can be accessed using keyboard shortcut **alt+super+keypadi , i in [1-9]**.
 ####Example 4:
@@ -113,7 +117,7 @@ A format line specify the position of each line with the character "%" and separ
 
 **P.S:** The number of "%" used in the format line indicates the number of columns in the matrix.
 
-####Max length example:
+####Example 6:
 ```
 aaa
 b
