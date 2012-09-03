@@ -1,5 +1,28 @@
 [
-	{
-		"keys": ["ctrl+super+x"], "command": "matrixify"
-	}
+    { "keys": ["ctrl+super+x"], "command": "matrixify" },
+    { "keys": ["ctrl+super+s"], "command": "matrixify", "args": {"reqsep": true} },
+
+    { "keys": ["ctrl+super+keypad1"], "command": "matrixify", "args": {"dim": 1} },
+    { "keys": ["ctrl+super+keypad2"], "command": "matrixify", "args": {"dim": 2} },
+    { "keys": ["ctrl+super+keypad3"], "command": "matrixify", "args": {"dim": 3} },
+    { "keys": ["ctrl+super+keypad4"], "command": "matrixify", "args": {"dim": 4} },
+    { "keys": ["ctrl+super+keypad5"], "command": "matrixify", "args": {"dim": 5} },
+    { "keys": ["ctrl+super+keypad6"], "command": "matrixify", "args": {"dim": 6} },
+    { "keys": ["ctrl+super+keypad7"], "command": "matrixify", "args": {"dim": 7} },
+    { "keys": ["ctrl+super+keypad8"], "command": "matrixify", "args": {"dim": 8} },
+    { "keys": ["ctrl+super+keypad9"], "command": "matrixify", "args": {"dim": 9} },
+
+    { "keys": ["alt+super+;"], "command": "matrixify", "args": {"sep": ";"} },
+    { "keys": ["alt+super+,"], "command": "matrixify", "args": {"sep": ","} },
+
+    { "keys": ["alt+super+keypad1"], "command": "matrixify", "args": {"reqsep": true, "dim": 1} },
+    { "keys": ["alt+super+keypad2"], "command": "matrixify", "args": {"reqsep": true, "dim": 2} },
+    { "keys": ["alt+super+keypad3"], "command": "matrixify", "args": {"reqsep": true, "dim": 3} },
+    { "keys": ["alt+super+keypad4"], "command": "matrixify", "args": {"reqsep": true, "dim": 4} },
+    { "keys": ["alt+super+keypad5"], "command": "matrixify", "args": {"reqsep": true, "dim": 5} },
+    { "keys": ["alt+super+keypad6"], "command": "matrixify", "args": {"reqsep": true, "dim": 6} },
+    { "keys": ["alt+super+keypad7"], "command": "matrixify", "args": {"reqsep": true, "dim": 7} },
+    { "keys": ["alt+super+keypad8"], "command": "matrixify", "args": {"reqsep": true, "dim": 8} },
+    { "keys": ["alt+super+keypad9"], "command": "matrixify", "args": {"reqsep": true, "dim": 9} }
+
 ]
